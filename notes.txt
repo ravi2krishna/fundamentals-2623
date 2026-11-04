@@ -1,0 +1,78 @@
+Class - 1
+==========
+
+    -> Application 
+
+        -> An Application Is a Software Program Designed To Perform A "TASK"
+
+            -> https://www.myntra.com - Helps Me Buy Products On Internet (Task) 
+
+            -> https://www.flipkart.com - Helps Me Buy Products On Internet (Task) 
+
+            -> https://www.amazon.in - Helps Me Buy Products On Internet (Task) 
+
+            -> NOTE: All the Above are Ecommerce Applications 
+
+            
+            -> http://instagram.com - Helps Me Contact My Friends / Send Some Msg (Task) 
+
+            -> http://facebook.com - Helps Me Contact My Friends / Send Some Msg (Task) 
+
+            -> NOTE: All the Above are Social Media Applications 
+
+
+    -> Application Types 
+
+        -> Desktop Applications 
+
+        -> Web Applications 
+
+        -> Mobile Applications 
+
+        -> Enterprise Applications 
+
+        -> etc 
+
+
+    -> Desktop Applications 
+
+        -> Desktop Applications Designed To Run On "SINGLE MACHINE"
+
+            -> Only One User Can Access At A Time 
+
+            -> Installed On Desktops / Laptops 
+
+            -> MS Suite (MS Office) 
+
+            -> NOTE: Most Of The Desktop Application, can work without Internet
+
+
+        
+        -> Web Applications
+
+            -> An Web Application Uses Internet and Is Accessed Using Browser 
+
+            -> Multiple Users Can Simultaneously Access At A Time 
+
+                -> https://www.myntra.com - user1 (5 products)
+
+                -> https://www.myntra.com - user2 (1 products)
+
+            -> We Don't Need To Install Web Applications 
+
+            -> Web Applications Are Deployed On "SERVERS"
+
+                -> https://upload.wikimedia.org/wikipedia/commons/c/c9/Client-server-model.svg
+
+            -> Every Web Application Uses Client - Server Architecture 
+
+                -> Client (Browser) - Server (Physical Server - Web Server)
+
+                -> Client (Mobile) - Server (Cloud Server - Database Server)
+
+                -> Client (Tab) - Server (Virtual Server - Application Server)
+
+
+
+
+
