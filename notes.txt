@@ -75,4 +75,124 @@ Class - 1
 
 
 
+Class - 2
+==========
 
+    -> Web Applications use Client - Server Architecture 
+
+        -> Static Applications 
+
+            -> Static: Fixed / Doesn't Change 
+
+            -> Static Application, Have Fixed Data / Content For Any User 
+
+            -> https://www.edifynuva.com/
+
+                -> Multiple Users Access Application With Same Data 
+
+
+        -> Dynamic Applications 
+
+            -> Dynamic: Not Fixed / Does Change 
+
+            -> Dynamic Application, Has Different Data / Content For Different Users 
+
+            -> https://gmail.com/ 
+
+                -> Multiple Users Have Different Inbox Mails 
+
+                    -> user1 - 200 emails 
+
+                    -> user2 - 20 emails 
+
+                    -> user2 - 2000 emails 
+
+    
+    -> Mobile Applications
+
+        -> Mobile Applications are Installed On Mobiles Devices / Tablets 
+
+        -> Installed From Playstore / Appstore 
+
+        -> Mobile Applications Utilizes, Hardware From Mobile Devices 
+
+            -> Mobile Phone Has GPS: Used For Navigation(Google Maps)
+
+            -> Mobile Phone Has Camera: Used For Taking Videos(Camera App)
+
+            -> Mobile Phone Has Antenna: Used For Making Calls(Phone App)
+
+
+    -> NOTE: Mostly We Work With Dynamic Applications 
+
+        -> Because Of Following 
+
+            -> https://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites
+
+
+        -> One thing the most visited websites have in common is that they are dynamic websites/Applications
+
+        -> Their development typically involves 
+        
+            -> server-side coding 
+            
+            -> client-side coding and 
+            
+            -> database technology
+
+        -> The Above Forms The Basis For Three Tier Architecture / Multi Tier Architecture 
+
+
+    
+    
+    -> Frontend Technologies
+
+        -> Application Layer That Shows "User Interface" (Look & Feel)
+
+        -> Takes Input & Displays Output 
+
+        -> Technologies: HTML / CSS / JS(Reactjs)
+
+            -> HTML - Structure / Skeleton To Your Site 
+
+            -> CSS - Add Beautification To Your Site 
+
+            -> Javascript - Adds Actions To Your Site
+
+            -> https://miro.medium.com/v2/resize:fit:1400/0*pNREGiTjwWD4EFKC
+
+
+
+    -> Backend Technologies 
+
+        -> Application Layer That Handle "Business Logics" 
+
+        -> Frontend, Takes Input & Displays Output 
+
+            -> Then who does the processing of Input & Output ??? 
+
+                -> Backend Technologies 
+
+                    -> Banking / Finance / Government - Java 
+
+                    -> Data science / AI / Data Analytics - Python 
+
+                    -> Content Management Systems - PHP 
+
+                
+                -> Learning Management System 
+
+                    -> Students Purchases Courses - Pay - PaymentAPI - Java 
+
+                    -> Institute Management - Conducts Job Fair - Analytics On Placed Ratio -  PlacementAPI -  Python 
+
+                    -> Students Courses Have Content - Documents / Videos / PPT / Cheat sheets - CoursesContentAPI - PHP 
+
+                        
+                        -> Micro Services Architecture 
+
+                            -> Using Restful API's 
+
+                            -> https://images.velog.io/images/kevinkim2586/post/20923cbf-a83e-4857-968f-0b6dffde9a8d/Screen%20Shot%202021-01-14%20at%202.27.47%20PM.png
+
+                            -> Restful API's Data is JSON 
