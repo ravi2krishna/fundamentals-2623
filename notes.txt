@@ -196,3 +196,91 @@ Class - 2
                             -> https://images.velog.io/images/kevinkim2586/post/20923cbf-a83e-4857-968f-0b6dffde9a8d/Screen%20Shot%202021-01-14%20at%202.27.47%20PM.png
 
                             -> Restful API's Data is JSON 
+
+
+
+Class - 3
+==========
+
+    -> Database Technologies 
+
+        -> Stateless Applications: Can Function Without Data 
+
+        -> Stateful Applications: Cannot Function Without Data 
+
+            -> All the Databases Come Under Stateful Apps 
+
+            -> Stores Users Data(First Name, Last Name, Email, Mobile Number)
+
+            -> Database Softwares: MySQL, Postgres, SQL Server, Oracle Server etc 
+
+
+    -> Digital Institute Gave An Requirement To Create Student Management System (SMS)
+
+        -> To Start Working With Any Type Of Application, We Need To Follow Process 
+
+            -> Software Development Life Cycle (SDLC)
+
+                -> SDLC is a Process Followed By Organizations To Build High Quality Softwares.
+
+                -> SDLC Has Multiple Phases and it's applicable for any kind of Application
+                (Desktop Applications To Modern AI Agents)
+
+                    -> Requirement Gathering 
+
+                    -> Analysis 
+
+                    -> Design 
+
+                    -> Code 
+
+                    -> Build 
+
+                    -> Test 
+
+                    -> Release 
+
+                    -> Deploy
+
+                    -> Monitor 
+        
+
+
+    -> Student Management System 
+
+        -> Requirement Gathering: Business Analyst / Sales Team 
+
+            -> A Business Requirements Document (BRD) is a formal, high-level blueprint that outlines 
+            what a project or software system needs to achieve from a business perspective, 
+            focusing on the "what" and "why" rather than technical implementation details.
+
+            -> Project Overview - The core business goals, problem statement, and project vision.
+
+        
+        -> Analysis 
+
+            -> Business Analysis / PMO (Connects With Stake Holder Team)
+
+                -> Preparing Business Requirements Document (BRD)
+
+                -> Business Problem -> Possible Solutions -> Stake Holder Team 
+
+                -> Students By Department - 1st Quarter 
+
+                -> Trainers By Department - 2nd Quarter 
+
+                -> Media Management - 3rd Quarter
+
+
+        
+        -> Design: Solutions Architect - System Design Engineer - Senior Analyst 
+
+            -> System Architecture - https://miro.medium.com/v2/resize:fit:1400/1*PrMsb3vzKjIME-68qAvCMQ.png
+
+            -> UI / UX - https://www.mindinventory.com/casestudies-assets/school-management-system/img/webp/parent-dash-two.webp
+
+                        -> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiEtxH0djsZMoays1ChoGP1OM1QeSDPegONx9AfsUseTksD4_Fdd2DYuLy&s=10
+
+            -> Database Design - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn865exPfNPLQx4_Y6I2VxWVWXmzT8lw9BE5AlCWSysEMLHyl8SD60fTI-&s=10
+
+            
