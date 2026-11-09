@@ -284,3 +284,85 @@ Class - 3
             -> Database Design - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn865exPfNPLQx4_Y6I2VxWVWXmzT8lw9BE5AlCWSysEMLHyl8SD60fTI-&s=10
 
             
+
+Class - 4
+==========
+
+    -> Next Phase Is Implementation 
+
+    -> Code - Software Developers Come Into The Picture 
+
+    -> Developers Will Be Assigned User Stories, in Project Management Tools 
+
+        -> JIRA (Proprietary)
+
+        -> Jira is a proprietary product developed by Atlassian that allows 
+        bug tracking, issue tracking and agile project management. 
+
+        -> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqIMtiLukVZt2AfHFt5H69W_mSbjrhQZwkdZw4EB03n_gtIis0xt2k2LY&s=10
+
+        -> https://images.ctfassets.net/xjcz23wx147q/2vuHCsAF3tUpzYykEb9GAX/11fb10694a339636aceb9f531f11e49f/Kanban-updated.png
+        
+        
+        -> In Terms Of Project Management, We Can Use GitHub Freely, with GitHub Projects  
+
+            -> Sign Up For Free GitHub Account 
+
+        
+        -> GitHub Projects are a feature within GitHub designed for 
+        "planning and tracking work"
+
+        -> Assign Work To Developers - Projects & Issues 
+
+            -> Project - https://github.com/users/ravi2krishna/projects/19/views/1
+
+        
+        -> GitHub Issues is a built-in, lightweight issue-tracking system in 
+        every repository used for planning, discussing, and tracking work like 
+        bug reports, new features, and tasks.
+
+        -> NOTE: Within Project we have Issues 
+
+        -> https://everhour.com/blog/wp-content/uploads/2017/05/github-zenhub-1024x433.png
+
+            -> Issues - https://github.com/ravi2krishna/login-2607/issues
+
+
+    -> Developers Will Not Jump Start and Randomly Begin Writing Code 
+
+        -> Developers Use Version Control Systems 
+
+        -> Development Team 
+
+        -> Development Team Mainly Focuses On Building Applications 
+
+            -> Development Means Coding 
+
+    -> Version Control Systems (VCS)
+
+        -> Version control / Revision control / Source control
+        is a process that helps to "keep track of changes" made to 
+        files (computer programs, web site files, documents etc)
+
+        -> Advantage Of VCS is Revert Changes To Previous Working Versions, 
+        if there are issues in new version
+
+            -> https://notepad-plus-plus.org/downloads/
+
+            -> Notepad ++ 8.9.8 -> Released To Market -> Users Started Using It 
+
+                -> After Two Weeks, We Got Complaints, Saying It's Slow, Unable To 
+                Download Plugins, Not Updating Properly 
+
+            -> Prior To 8.9.8, we Had 8.9.7, and the updated versions changes include 
+
+                -> 350 Files Got Updated 
+
+            -> Now To Revert Back To Older Versions i.e 8.9.7, now 350 Files Needs 
+            To Be Reverted 
+
+            -> NOTE: VCS Helps You Get Time Travel Kind Of Features 
+
+            
+
+            
