@@ -364,5 +364,111 @@ Class - 4
             -> NOTE: VCS Helps You Get Time Travel Kind Of Features 
 
             
+Class - 5
+==========
+
+    -> Build Management 
+
+        -> The Term Build Refers To A Process By Which 
+        Source Code Is Converted Into Binary Code (Software Artifacts)
+
+            -> Source Code - Human Readable 
+
+        
+
+        -> Source Code
+
+            -> https://github.com/notepad-plus-plus/notepad-plus-plus
+
+        
+        -> NOTE: After Performing Build, We Get Binary Code 
+
+        
+        -> Binary Code (Useable Product)
+
+            -> https://notepad-plus-plus.org/downloads/
+
+        
+        -> Any Build Process Has Following Steps 
+
+            -> Source Code Files 
+
+                -> Source code is the list of human-readable instructions that a programmer writes
+
+                -> Handled by Developer
+
+                -> https://github.com/ravi2krishna/lms-v1/blob/main/api/src/app.ts
+
+            -> Metadata File
+
+                -> File that contains information about the project and 
+                configuration details used to build the project. 
+
+                -> Handled by Developer
+
+                -> https://github.com/ravi2krishna/lms-v1/blob/main/api/package.json
+
+
+            -> Binary Code (After Build Is Done)
+
+                -> System Generated Artifacts 
+
+                -> Handled by Developer - Laptops 
+
+                -> Handled by DevOps Team - Servers 
+
+                -> NOTE: Binary Code is not available in GitHub 
+        
+
+        -> NOTE: Below Link Help's you understand, how developers initially learn to perform builds 
+
+            -> https://radixweb.com/blog/steps-to-build-react-project-with-create-react-app
 
             
+        -> Project - Source Code
+
+            -> https://github.com/ravi2krishna/lms-v1.git
+
+
+        -> Build Tools 
+
+            -> Javascript : node package manager (npm) 
+
+            -> Java: Maven 
+
+            -> Python: pybuilder 
+
+            -> C: make 
+
+    
+    -> Testing 
+
+        -> QA Domain (Software Testers / QA Engineers)
+
+        -> Based On Requirement Documents, is the Functionality Working As Expected Or Not 
+
+        -> NO Testing Means, Features Might or Might Not Work As Expected 
+
+        -> Expected Result == Actual Result (Test Passed)
+
+        -> Expected Result != Actual Result (Test Failed)
+
+        -> https://github.com/ravi2krishna/testing-2601/blob/main/STLC.png
+
+        -> https://docs.google.com/spreadsheets/d/1iOaahqvlk5FxyjN7V-jtDoZSuyn5fnv_zLKIeZIp2gg/edit?gid=1668894747#gid=1668894747
+
+
+        -> Types Of Testing 
+
+            -> Unit Testing 
+
+            -> White Box Testing 
+
+            -> Integration Testing 
+
+            -> Functional Testing 
+
+            -> Performance Testing 
+
+            -> etc 
+
